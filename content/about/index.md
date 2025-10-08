@@ -11,7 +11,7 @@ type: landing
 Welcome to the **3D Graphics Laboratory** at the University of the Basque Country (EHU)!  
 This is a creative playground where students can explore, experiment, and build with **3D technologies**.
 
----
+
 
 🚀 What We Do
 
@@ -22,7 +22,7 @@ This is a creative playground where students can explore, experiment, and build 
 
 check our [projects](https://github.com/ilopezgazpio/dif.3d.gela) developed by students
 
----
+
 
 🌍 Join the Lab
 
@@ -32,7 +32,7 @@ This lab is open to **students of all backgrounds** whether you’re into progra
 - 🛠️ Share your projects  
 - 🤝 Collaborate with peers  
 
----
+
 
 📢 Stay Connected
 
@@ -42,6 +42,6 @@ We’re just getting started! This site will grow with resources, guides, and sh
 👉 Contribute ideas, projects, or tutorials to help the lab thrive!  
 👉 Join our [Discord channel](https://discord.gg/tUJCjDse)
 
----
+
 
 Made with 💡 by the **EHU 3D Graphics Lab** team.
