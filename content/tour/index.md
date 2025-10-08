@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Stay Connected
+        content: 'We’re just getting started! This site will grow with resources, guides, and showcases of student work. Check out our discord channel. 
         align: right
         background:
           image:
@@ -41,8 +41,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Join Us in discord
+          url: https://discord.gg/tUJCjDse
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
