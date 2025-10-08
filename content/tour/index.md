@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the 3D Graphics Laboratory at the University of the Basque Country (EHU)!
-        content: This is a creative playground where students can explore, experiment, and build with 3D technologies.
+        content: 'This is a creative playground where students can explore, experiment, and build with 3D technologies.'
         align: center
         background:
           image:
