@@ -5,12 +5,14 @@ title: Elsa Fernández
 # Full Name (for SEO)
 first_name: Elsa
 last_name: Fernández
+authors:
+  - elsa-fernandez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor of Computer Science
+role: Professor in the Department of Computer Science and Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

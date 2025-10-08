@@ -8,9 +8,11 @@ last_name: Rodríguez
 
 # Is this the primary user of the site?
 superuser: false
+authors:
+  - igor-rodriguez
 
 # Role/position
-role: Research Associate in Robotics
+role: Professor in the Department of Computer Science and Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

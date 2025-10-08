@@ -12,7 +12,7 @@ authors:
   - eneko-atxa
 
 # Role/position
-role: Postdoctoral Researcher
+role: Predoctoral Researcher
 
 # Organizations/Affiliations
 organizations:

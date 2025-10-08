@@ -12,7 +12,7 @@ authors:
   - inigo-lopez
 
 # Role/position
-role: PhD Student in Computer Vision
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

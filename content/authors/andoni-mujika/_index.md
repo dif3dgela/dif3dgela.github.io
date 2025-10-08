@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher in Deep Learning and AI
+role: Professor in the Department of Computer Science and Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
