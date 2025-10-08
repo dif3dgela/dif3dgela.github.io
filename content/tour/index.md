@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the 3D Graphics Laboratory at the University of the Basque Country (EHU)!
+        content: This is a creative playground where students can explore, experiment, and build with 3D technologies.
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: What We Do ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together! 3D Modeling & Animation – Blender, open-source tools, and artistic workflows Game Engines – Unity, Godot, and interactive experiences 3D Printing & Fabrication – from digital models to physical objects Research & Learning – workshops, tutorials, and collaborative projects'
         align: left
         background:
           image:
