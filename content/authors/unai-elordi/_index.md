@@ -16,11 +16,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: University of the Basque Country
+  - name: University of the Basque Country (UPV/EHU)
     url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence
@@ -46,6 +43,10 @@ social:
     link: 'https://orcid.org/0000-0002-6276-0123'
   - icon: github
     icon_pack: fab
+    link: 'https://github.com/uelordi01'
+
+  - icon: linkedin
+    icon_pack: brands
     link: 'https://github.com/uelordi01'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
