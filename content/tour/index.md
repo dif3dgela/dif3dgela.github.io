@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: What We Do ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together! 3D Modeling & Animation – Blender, open-source tools, and artistic workflows Game Engines – Unity, Godot, and interactive experiences 3D Printing & Fabrication – from digital models to physical objects Research & Learning – workshops, tutorials, and collaborative projects'
+        content: '3D Modeling & Animation – Blender, open-source tools, and artistic workflows Game Engines – Unity, Godot, and interactive experiences 3D Printing & Fabrication – from digital models to physical objects Research & Learning – workshops, tutorials, and collaborative projects'
         align: left
         background:
           image:
@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: Stay Connected
-        content: 'We’re just getting started! This site will grow with resources, guides, and showcases of student work. Check out our discord channel. 
+        content: 'We’re just getting started! This site will grow with resources, guides, and showcases of student work. Check out our discord channel.'
         align: right
         background:
           image:
