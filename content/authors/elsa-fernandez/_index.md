@@ -1,41 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Elsa Fernández
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Elsa
+last_name: Fernández
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of the Basque Country
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, data mining, and computational intelligence.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Data Mining
+  - Computational Intelligence
+  - Pattern Recognition
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Computer Science
+      institution: University of the Basque Country
+      year: 2018
+    - course: MSc in Artificial Intelligence
+      institution: University of the Basque Country
+      year: 2014
+    - course: BSc in Mathematics
+      institution: University of the Basque Country
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +45,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:elsa.fernandez@ehu.eus'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=elsa-fernandez
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/elsafernandez
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +70,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Elsa Fernández is an Assistant Professor of Computer Science at the University of the Basque Country. Her research focuses on developing advanced machine learning algorithms and data mining techniques for complex real-world problems. She has extensive experience in computational intelligence and pattern recognition, with applications in various domains including bioinformatics, image processing, and predictive analytics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Fernández has published numerous papers in high-impact journals and conferences, and actively collaborates with industry partners to transfer research innovations into practical solutions.
