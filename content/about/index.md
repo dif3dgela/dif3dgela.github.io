@@ -2,18 +2,18 @@
 title: About Us
 date: 2022-10-24
 
-type: markdown
+type: landing
 
 ---
 
-# 🎨 EHU 3D Graphics Lab (dif.3d.gela)
+🎨 EHU 3D Graphics Lab (dif.3d.gela)
 
 Welcome to the **3D Graphics Laboratory** at the University of the Basque Country (EHU)!  
 This is a creative playground where students can explore, experiment, and build with **3D technologies**.
 
 ---
 
-## 🚀 What We Do
+🚀 What We Do
 
 - **3D Modeling & Animation** – Blender, open-source tools, and artistic workflows  
 - **Game Engines** – Unity, Godot, and interactive experiences  
@@ -24,7 +24,7 @@ check our [projects](https://github.com/ilopezgazpio/dif.3d.gela) developed by s
 
 ---
 
-## 🌍 Join the Lab
+🌍 Join the Lab
 
 This lab is open to **students of all backgrounds** whether you’re into programming, design, art, or just curious about 3D!
 
@@ -34,7 +34,7 @@ This lab is open to **students of all backgrounds** whether you’re into progra
 
 ---
 
-## 📢 Stay Connected
+📢 Stay Connected
 
 We’re just getting started! This site will grow with resources, guides, and showcases of student work.  
 
