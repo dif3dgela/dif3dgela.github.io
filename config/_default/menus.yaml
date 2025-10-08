@@ -13,9 +13,12 @@ main:
   - name: News
     url: post
     weight: 30
+  - name: Projects
+    url: projects
+    weight: 40
   - name: People
     url: people
-    weight: 40
+    weight: 50
   - name: Contact
     url: contact
-    weight: 50
+    weight: 60

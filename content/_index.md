@@ -8,17 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        DIF 3D Gela
+        DIF3D Gela
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The DIF3D gela is is a creative playground where students can explore, experiment, and build with 3D technologies.
   
   - block: collection
     content:
-      title: Latest News
+      title: Projects
       subtitle:
       text:
       count: 5
@@ -30,7 +30,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: projects
     design:
       view: card
       columns: '1'
