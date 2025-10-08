@@ -80,29 +80,6 @@ Para ello, se ha desarrollado un **videojuego tipo Tower Defense** como prototip
 - **SteamVR / OpenXR / ALVR** – Integración con realidad virtual
 - **Git & GitHub** – Control de versiones
 
----
-
-## 📸 Capturas del juego
-
-{{< gallery album="tower-defense" >}}
-
-### Gameplay Principal
-
-![Tower Defense - Vista principal](https://github.com/dif3dgela/2025GrAL_OierAlvarez_Integracion_IA_Unity/raw/main/img1.png)
-
-### Sistema de IA
-
-![Tower Defense - Pathfinding](https://github.com/dif3dgela/2025GrAL_OierAlvarez_Integracion_IA_Unity/raw/main/img2.png) 
-
-### Interfaz de Usuario
-
-![Tower Defense - UI](https://github.com/dif3dgela/2025GrAL_OierAlvarez_Integracion_IA_Unity/raw/main/img3.png)
-
-### Realidad Virtual
-
-![Tower Defense - VR](https://github.com/dif3dgela/2025GrAL_OierAlvarez_Integracion_IA_Unity/raw/main/img4.png)
-
----
 
 ## 🎯 Objetivos alcanzados
 
