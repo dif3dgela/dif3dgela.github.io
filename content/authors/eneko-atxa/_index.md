@@ -8,6 +8,8 @@ last_name: Atxa
 
 # Is this the primary user of the site?
 superuser: false
+authors:
+  - eneko-atxa
 
 # Role/position
 role: Postdoctoral Researcher

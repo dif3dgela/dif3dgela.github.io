@@ -8,6 +8,8 @@ last_name: López
 
 # Is this the primary user of the site?
 superuser: false
+authors:
+  - inigo-lopez
 
 # Role/position
 role: PhD Student in Computer Vision

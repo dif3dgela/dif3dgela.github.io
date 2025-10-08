@@ -8,6 +8,8 @@ last_name: Elordi
 
 # Is this the primary user of the site?
 superuser: true
+authors:
+  - unai-elordi
 
 # Role/position
 role: Professor of Artificial Intelligence
