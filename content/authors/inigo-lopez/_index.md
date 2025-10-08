@@ -12,7 +12,7 @@ authors:
   - inigo-lopez
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor in the Department of Computer Science and Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        DIF 3D Gela
       image:
         filename: welcome.jpg
       text: |
