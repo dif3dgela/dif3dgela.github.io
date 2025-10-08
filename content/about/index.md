@@ -2,7 +2,7 @@
 title: About Us
 date: 2022-10-24
 
-type: landing
+type: markdown
 
 ---
 
@@ -14,6 +14,7 @@ This is a creative playground where students can explore, experiment, and build 
 ---
 
 ## 🚀 What We Do
+
 - **3D Modeling & Animation** – Blender, open-source tools, and artistic workflows  
 - **Game Engines** – Unity, Godot, and interactive experiences  
 - **3D Printing & Fabrication** – from digital models to physical objects  
@@ -24,6 +25,7 @@ check our [projects](https://github.com/ilopezgazpio/dif.3d.gela) developed by s
 ---
 
 ## 🌍 Join the Lab
+
 This lab is open to **students of all backgrounds** whether you’re into programming, design, art, or just curious about 3D!
 
 - 📚 Learn by doing  
@@ -33,6 +35,7 @@ This lab is open to **students of all backgrounds** whether you’re into progra
 ---
 
 ## 📢 Stay Connected
+
 We’re just getting started! This site will grow with resources, guides, and showcases of student work.  
 
 👉 Follow updates here and on our GitHub repository.  
