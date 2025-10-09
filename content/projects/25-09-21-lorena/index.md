@@ -89,9 +89,8 @@ In the future, the repository is expected to expand with new pieces using eco-fr
 
 This project is distributed under the **Creative Commons Attribution (CC BY)** license.  
 © 2025 Lorena Bocos Olabarría. All rights reserved.
+
 {{% callout warning %}}
 Here's some important information...
 {{% /callout %}}
-
-
 ---
