@@ -6,7 +6,6 @@ draft: false
 featured: true
 authors: ["unai elordi"]
 image:
-  #filename: "carla_visual_recognition.jpg"  # Replace with actual image file name
   focal_point: "center"
   preview_only: false
 tags:
@@ -19,8 +18,8 @@ tags:
 ---
 
 
-
 # Accessibility and Autonomy in Learning 🧩  
+
 ### Study of the 3D Manufacturing Process Adapted for Students with Visual Impairments
 
 **Author:** Lorena Bocos Olabarría  
@@ -67,6 +66,7 @@ The work combines an **educational, engineering, and artistic approach**, integr
 ## 📊 Print Optimization
 
 Experimental tests determined that the **best configuration** for balancing durability and sustainability was:  
+
 - **“Grid” or “Cross” infill at 10% density**,  
 - **Layer thickness of 0.1 mm**,  
 - **Standard PLA filament**,  
@@ -88,9 +88,6 @@ In the future, the repository is expected to expand with new pieces using eco-fr
 ## 📚 License
 
 This project is distributed under the **Creative Commons Attribution (CC BY)** license.  
-© 2025 Lorena Bocos Olabarría. All rights reserved.
 
-{{% callout warning %}}
-Here's some important information...
-{{% /callout %}}
+© 2025 Lorena Bocos Olabarría. All rights reserved.
 ---
