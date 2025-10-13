@@ -29,17 +29,6 @@ interests:
   - Computer Vision
   - Control Systems
 
-education:
-  courses:
-    - course: PhD in Robotics Engineering
-      institution: University of the Basque Country
-      year: 2021
-    - course: MSc in Automation and Robotics
-      institution: University of the Basque Country
-      year: 2017
-    - course: BSc in Industrial Engineering
-      institution: University of the Basque Country
-      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,9 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Class Coordinators
 ---
 
-Igor Rodríguez is a Research Associate in Robotics at the University of the Basque Country. His research focuses on developing intelligent autonomous systems and improving human-robot interaction through advanced control algorithms and computer vision techniques. He has extensive experience in mobile robotics, sensor fusion, and real-time control systems.
 
-Dr. Rodríguez has worked on several industrial automation projects and has contributed to the development of collaborative robots (cobots) for manufacturing environments. His work aims to create safer and more efficient robotic systems that can work alongside humans.

@@ -29,17 +29,7 @@ interests:
   - Medical Imaging
   - Object Detection
 
-education:
-  courses:
-    - course: PhD in Computer Vision (in progress)
-      institution: University of the Basque Country
-      year: 2024
-    - course: MSc in Data Science
-      institution: University of the Basque Country
-      year: 2021
-    - course: BSc in Computer Science
-      institution: University of the Basque Country
-      year: 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -62,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'inigo.lopez@ehu.eus'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -70,9 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Class Coordinators
 ---
 
-Iñigo López is a PhD student in Computer Vision at the University of the Basque Country. His research focuses on developing advanced deep learning techniques for medical image analysis and object detection. He is particularly interested in applying convolutional neural networks and transformer architectures to solve challenging problems in medical diagnosis and automated image interpretation.
 
-During his studies, Iñigo has collaborated on several research projects involving medical imaging, working closely with healthcare professionals to develop practical AI solutions for clinical applications.

@@ -29,18 +29,6 @@ interests:
   - Augmented Reality
   - Real-time Rendering
 
-education:
-  courses:
-    - course: PhD in Computer Graphics
-      institution: University of the Basque Country
-      year: 2019
-    - course: MSc in Computer Engineering
-      institution: University of the Basque Country
-      year: 2015
-    - course: BSc in Computer Engineering
-      institution: University of the Basque Country
-      year: 2013
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -70,9 +58,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Class Coordinators
 ---
 
-Eneko Atxa is a Postdoctoral Researcher at the University of the Basque Country specializing in computer graphics and virtual reality technologies. His work focuses on developing innovative 3D modeling techniques and real-time rendering algorithms for immersive virtual environments. He has contributed to several projects involving augmented reality applications and has expertise in GPU programming and parallel computing for graphics applications.
-
-Dr. Atxa's research bridges the gap between theoretical computer graphics concepts and practical implementations in gaming, simulation, and visualization industries.

@@ -1,5 +1,6 @@
 ---
-title: Accessibility and Autonomy in Learning 🧩 Study of the 3D Manufacturing Process Adapted for Students with Visual Impairments
+title: Accessibility and Autonomy in Learning 🧩 
+subtitle: Study of the 3D Manufacturing Process Adapted for Students with Visual Impairments
 summary: This project is part of the **Bachelor’s Thesis in Computer Engineering** and aims to **enhance accessibility and autonomy in learning through the use of 3D modeling and printing technologies**.  
 date: 2025-09-21
 draft: false
@@ -16,12 +17,6 @@ tags:
   - Virtual Reality
   - Generative AI
 ---
-
-
-# Accessibility and Autonomy in Learning 🧩  
-
-### Study of the 3D Manufacturing Process Adapted for Students with Visual Impairments
-
 **Author:** Lorena Bocos Olabarría  
 **Date:** September 2025  
 **Supervised by:** Iñigo López Gazpio & Elsa Fernández Gómez de Segura  
@@ -90,6 +85,3 @@ In the future, the repository is expected to expand with new pieces using eco-fr
 This project is distributed under the **Creative Commons Attribution (CC BY)** license.  
 
 © 2025 Lorena Bocos Olabarría. All rights reserved.
-
-
----

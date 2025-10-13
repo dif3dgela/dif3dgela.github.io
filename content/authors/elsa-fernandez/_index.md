@@ -28,17 +28,7 @@ interests:
   - Computational Intelligence
   - Pattern Recognition
 
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: University of the Basque Country
-      year: 2018
-    - course: MSc in Artificial Intelligence
-      institution: University of the Basque Country
-      year: 2014
-    - course: BSc in Mathematics
-      institution: University of the Basque Country
-      year: 2012
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,9 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Class Coordinators
 ---
 
-Elsa Fernández is an Assistant Professor of Computer Science at the University of the Basque Country. Her research focuses on developing advanced machine learning algorithms and data mining techniques for complex real-world problems. She has extensive experience in computational intelligence and pattern recognition, with applications in various domains including bioinformatics, image processing, and predictive analytics.
 
-Dr. Fernández has published numerous papers in high-impact journals and conferences, and actively collaborates with industry partners to transfer research innovations into practical solutions.

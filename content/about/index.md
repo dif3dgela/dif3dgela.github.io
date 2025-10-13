@@ -1,69 +1,71 @@
 ---
-title: Contact
-date: 2022-10-24
-
+# Page title
+title: About EHU 3D Graphics Lab
+# Page type - we want a landing page (such as a homepage)
 type: landing
 
+# Your landing page sections - add as many different content blocks as you like
 sections:
-  - block: contact
-    content:
-      title: Contact
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
-
   - block: markdown
+    id: mission
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      title: Our Mission
+      subtitle: Empowering students through 3D technology
+      text: |
+        The **EHU 3D Graphics Lab** is a creative and educational space designed to provide students with hands-on experience in cutting-edge 3D technologies. Our mission is to:
+        
+        - **Foster Innovation**: Encourage students to explore and experiment with 3D modeling, animation, and interactive media
+        - **Bridge Theory and Practice**: Connect academic knowledge with real-world applications in 3D graphics and game development
+        - **Promote Collaboration**: Create a community where students from different backgrounds can work together on exciting projects
+        - **Support Accessibility**: Develop inclusive technologies and educational materials for students with diverse needs
+        - **Advance Research**: Conduct meaningful research in 3D graphics, virtual reality, and human-computer interaction
+        
+  - block: markdown
+    id: facilities
+    content:
+      title: What We Offer
+      subtitle: Resources and opportunities for student growth
+      text: |
+        ### 🎨 **3D Modeling & Animation**
+        - Professional software training (Blender, Unity, Godot)
+        - Digital sculpting and character design workshops
+        - Animation and rigging techniques
+        
+        ### 🎮 **Game Development**
+        - Interactive experience creation
+        - Game engine programming and scripting
+        - AI integration in gaming environments
+        
+        ### 🖨️ **3D Printing & Fabrication**
+        - From digital design to physical prototypes
+        - Educational tactile materials for inclusive learning
+        - Sustainable manufacturing practices
+        
+        ### 🥽 **Virtual & Augmented Reality**
+        - Immersive learning environments
+        - VR/AR application development
+        - Educational simulation systems
+        
+  - block: markdown
+    id: community
+    content:
+      title: Join Our Community
+      subtitle: Open to all students, regardless of experience level
+      text: |
+        Whether you're a complete beginner or already have experience with 3D technologies, our lab welcomes students from all disciplines:
+        
+        - **Computer Science & Engineering** students looking to apply their programming skills
+        - **Art & Design** students interested in digital creation
+        - **Education** students exploring innovative teaching methods
+        - **Anyone curious** about the intersection of technology, creativity, and learning
+        
+        ### 📚 **Learning Opportunities**
+        - Weekly workshops and tutorials
+        - Peer mentoring programs
+        - Collaborative student projects
+        - Research opportunities with faculty
+        
+        ### 🤝 **Get Involved**
+        Ready to start your 3D journey? [Join our Discord community](https://discord.gg/wqEvEaegyv) or visit us during our open lab hours!
+
 ---

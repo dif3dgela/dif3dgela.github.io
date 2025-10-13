@@ -30,18 +30,6 @@ interests:
   - Natural Language Processing
   - Computer Vision
 
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: University of the Basque Country
-      year: 2020
-    - course: MSc in Computer Science
-      institution: University of the Basque Country
-      year: 2016
-    - course: BSc in Computer Engineering
-      institution: University of the Basque Country
-      year: 2014
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -68,9 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - CoordinatClass Coordinatorsors
 ---
 
-Andoni Mujika is a researcher specializing in deep learning and artificial intelligence at the University of the Basque Country. His work focuses on developing novel architectures for recurrent neural networks and their applications in natural language processing and computer vision. He has made significant contributions to the field of memory-augmented neural networks and has published research on improving the efficiency and effectiveness of deep learning models.
 
-His research has been recognized in top-tier conferences and journals, with particular emphasis on bridging theoretical understanding and practical applications of AI systems.
