@@ -10,7 +10,6 @@ sections:
       title: Contact
       text: |-
         If you are interesed collaborating with us just write us:  📩 
-      email: 
       email: inigo.lopez@ehu.eus, unai.elordi@ehu.eus, andoni.mujika@ehu.eus
       address:
         street: Manuel Lardizabal pasealekua, 1, 20018. 
