@@ -1,5 +1,6 @@
 ---
-title: Latest News
+title: Finished projects
+subtitle: Last finished projects in Dif3D gela.
 
 # Listing view
 view: compact
