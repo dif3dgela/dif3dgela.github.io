@@ -18,6 +18,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+        link:
+          icon: diagram-project
+          icon_pack: fas
+          text: Check our projects
+          url: https://github.com/orgs/dif3dgela/repositories
       - title: What We Do ☕️
         content: '3D Modeling & Animation – Blender, open-source tools, and artistic workflows Game Engines – Unity, Godot, and interactive experiences 3D Printing & Fabrication – from digital models to physical objects Research & Learning – workshops, tutorials, and collaborative projects'
         align: left
