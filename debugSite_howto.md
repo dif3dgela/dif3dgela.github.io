@@ -24,4 +24,8 @@ Run hugo
 ```
 
 
+## Bug
+We yet do not know why github deployment action must be rerun in order the site to appear correctly online
+
+
 
