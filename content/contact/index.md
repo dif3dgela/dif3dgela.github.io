@@ -21,7 +21,7 @@ sections:
       coordinates:
         latitude: '43.3060928'
         longitude: '-2.0110165'
-      directions: You can find us in Computer Science forum E08 laboratory
+      directions: You can find us in the Computer Science forum E08 laboratory
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
