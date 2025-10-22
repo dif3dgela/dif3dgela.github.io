@@ -7,4 +7,4 @@ image:
 Write here the outline of the proposal
  <!--more-->
 Replace the featured.jpg image in this folder for your selected image for the post. 
-Extend here the markdown code for your proposal
+Extend here the markdown code for your proposal.

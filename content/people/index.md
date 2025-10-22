@@ -15,6 +15,7 @@ sections:
           - Coordinators
           - Grad Students
           - Master Students
+          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
