@@ -47,7 +47,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us in discord
-          url: https://discord.gg/tUJCjDse
+          url: https://discord.gg/wqEvEaegyv
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
