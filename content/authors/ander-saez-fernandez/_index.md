@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Cursing EHU computer science degree. 
+role: Cursing EHU Artificial Intelligence degree (4.th year). 
 # Organizations/Affiliations
 organizations:
   - name: University of the Basque Country
