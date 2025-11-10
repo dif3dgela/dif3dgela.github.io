@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Class Coordinators
           - Coordinators
+          - Practices
           - Grad Students
           - Master Students
           - Alumni
