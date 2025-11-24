@@ -28,7 +28,7 @@ sections:
           - <b>3D Modeling & Animation</b> – Blender, sketchfab, other open-source tools, and artistic workflows
           - <b>Game Engines and game intelligence</b> – Godot, and interactive experiences
           - <b>3D Printing & Fabrication</b> – from digital models to physical objects
-          - <b>Research & Learning</b> – workshops, tutorials, and collaborative projects'
+          - <b>Research & Learning</b> – workshops, tutorials, and collaborative projects
         align: left
         background:
           image:
@@ -38,7 +38,9 @@ sections:
           position: center
           color: '#555'
       - title: Stay Connected
-        content: 'We’re just getting started! This site will grow with resources, guides, and showcases of student work. Check out our discord channel.'
+        content: |
+          - We’re just getting started! This site will grow with resources, guides, and showcases of student work.
+          - Check out our discord channel.
         align: right
         background:
           image:
