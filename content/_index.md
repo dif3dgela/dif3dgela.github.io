@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the 3D Graphics Laboratory at the University of the Basque Country (EHU)!
-        content: 'This is a creative playground where students can explore, experiment, and build with 3D technologies.'
+      - title: 👋 Welcome to the 3D Graphics Laboratory at the University of the Basque Country (EHU)
+        content: 'A creative playground where students can explore, experiment, and build with 3D technologies.'
         align: center
         background:
           image:
@@ -24,7 +24,11 @@ sections:
           text: Check our projects
           url: https://github.com/orgs/dif3dgela/repositories
       - title: What We Do ☕️
-        content: '3D Modeling & Animation – Blender, open-source tools, and artistic workflows Game Engines – Unity, Godot, and interactive experiences 3D Printing & Fabrication – from digital models to physical objects Research & Learning – workshops, tutorials, and collaborative projects'
+        content: |
+	  - <b>3D Modeling & Animation</b> – Blender, sketchfab, other open-source tools, and artistic workflows
+	  - <b>Game Engines and game intelligence</b> – Godot, and interactive experiences
+	  - <b>3D Printing & Fabrication</b> – from digital models to physical objects
+	  - <b>Research & Learning</b> – workshops, tutorials, and collaborative projects'
         align: left
         background:
           image:
